@@ -1,0 +1,137 @@
+
+/*Global stuff*/
+.container{
+  width: 80%;
+
+}
+
+.center{
+  text-align: center;
+}
+
+
+/*end global stuff*/
+
+
+/*Nav Functionality*/
+#skroll {
+  display: none;
+}
+
+.skroll-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 50px;
+}
+
+.skroll-content section h2 {
+  text-align: center;
+}
+
+.skroll-header ul {
+  list-style-type: none;
+}
+
+.skroll-header ul li {
+  display: inline;
+  margin: 0 5px;}
+
+.skroll-header ul li a {
+  -webkit-transition: all .5s ease-out;
+  -moz-transition: all .5s ease-out;
+  -o-transition: all .5s ease-out;
+  transition: all .5s ease-out;
+}
+
+.skroll-content {
+  width: 100%; margin-top: 60px;
+}
+
+.skroll-content section {
+  width: 100%;
+  height: 100%;
+  float: left;
+}
+
+/*end Nav functionality*/
+
+/*Nav Style*/
+
+.skroll-header{
+  text-align:center;
+}
+
+.skroll-header a{
+  text-decoration: none;
+  color: black;
+  font-size: 24pt;
+  font-weight: bold;
+}
+
+.skroll-header a:hover{
+  color: purple;
+}
+
+/*end Nav Style*/
+
+
+/*section specific*/
+
+
+/*sec1*/
+#definition{
+  margin-top: 10%;
+}
+
+/*1*/
+
+/*sec2*/
+#lookatme{
+  margin-top: 10%;
+}
+
+/*2*/
+
+
+/*sec3*/
+
+/*3*/
+
+
+/*sec4*/
+
+/*4*/
+
+
+
+/*sec5*/
+
+/*5*/
+
+
+/*sec6*/
+#getattention{
+  list-style-type: none;
+  margin-top: 20%;
+}
+/*6*/
+
+
+
+/*sec7*/
+#quote{
+  color: gray;
+  font-weight: 200;
+  margin-top: 15%;
+  font-size: 18pt;
+}
+
+
+
+/*7*/
+
+
+
+/*end section sepecific*/
