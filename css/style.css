@@ -9,7 +9,14 @@
   text-align: center;
 }
 
-
+#byline{
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  margin-right: 30px;
+  font-size: 16pt;
+  color: black;
+}
 /*end global stuff*/
 
 
@@ -101,7 +108,14 @@
 
 
 /*sec4*/
+.middle{
+  margin-top: 20%;
+}
 
+h2{
+  font-size: 38pt;
+  color: purple;
+}
 /*4*/
 
 
@@ -113,8 +127,8 @@
 
 /*sec6*/
 #getattention{
-  list-style-type: none;
-  margin-top: 20%;
+  margin: 30px;
+
 }
 /*6*/
 
@@ -125,7 +139,7 @@
   color: purple;
   font-weight: 200;
   margin-top: 15%;
-  font-size: 18pt;
+  font-size: 22pt;
 }
 
 
